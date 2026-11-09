@@ -1,0 +1,13 @@
+{
+  "name": "wisdom-of-the-uneducated",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Wisdom of the Uneducated — a weekly perspective newsletter by Lemi Gemedi",
+  "scripts": {
+    "build": "node build.js",
+    "preview": "node build.js && npx --yes serve _site"
+  },
+  "dependencies": {
+    "marked": "^12.0.2"
+  }
+}
