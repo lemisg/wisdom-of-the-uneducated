@@ -1,6 +1,7 @@
 ---
 title: Sample Poem
 type: poem
+draft: true
 summary: A placeholder that shows how poems look on the site.
 ---
 
