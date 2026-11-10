@@ -2,8 +2,10 @@
 title: About
 ---
 
-*Wisdom of the Uneducated* is a weekly letter by Lemi Gemedi.
+*Wisdom of the Uneducated* is a weekly letter by an unknown author.
 
-Every week there is one new piece. Some weeks it is a story. Some weeks it is a thought on philosophy or on something happening in the world. Some weeks it is a poem.
+I am an aspiring writer, and I have chosen not to share my identity. Who I am does not matter here. The ideas should stand or fall on their own.
 
-*(Lemi — this page is a placeholder. Replace it with your own words about who you are and why you write.)*
+Every week there is one new piece of perspective writing. The subjects are philosophy, politics, theology, business, and current news. Some weeks it will be an essay, some weeks a story, and some weeks a poem.
+
+I will try to be as unbiased as I can. I will not always succeed, but I will always try.

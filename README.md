@@ -1,6 +1,6 @@
 # Wisdom of the Uneducated
 
-A weekly perspective newsletter by Lemi Gemedi — stories, philosophy, current events, and poems.
+A weekly perspective letter by an unknown author — philosophy, politics, theology, business, and current news.
 
 Live site: https://lemisg.github.io/wisdom-of-the-uneducated/
 
